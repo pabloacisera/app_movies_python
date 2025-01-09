@@ -1,0 +1,4 @@
+id,titulo,descripcion,duracion,estreno,poster,año,categoria,idioma,genero,clasificacion,calificacion,popularidad
+1,Inception,Un thriller que desafía la mente,148,2010-07-16,https://res.cloudinary.com/dvwpeyb4v/image/upload/v1736122314/inception_pglrqa.png,2010,Ciencia Ficción,Español,Acción,PG-13,8.8,85
+2,The Matrix,Un hacker descubre la verdadera naturaleza de la realidad,136,1999-03-31,https://res.cloudinary.com/dvwpeyb4v/image/upload/v1736122465/the_matrix_aipceb.png,1999,Ciencia Ficción,Español,Acción,R,8.7,80
+3,The Dark Knight,Batman se enfrenta al Joker en Ciudad Gótica,152,2008-07-18,https://res.cloudinary.com/dvwpeyb4v/image/upload/v1736122566/the_dark_knight_yfuifa.png,2008,Acción,Español,Acción,PG-13,9.0,90
